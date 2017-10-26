@@ -24,8 +24,5 @@ jobs:
       - run: yarn lint
 
       - run: yarn test
-        
-      # run tests!
-      - run: yarn test
 
 
